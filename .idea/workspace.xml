@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd3d3f38-eaa4-48b4-96c2-9ad175db3bc7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/177_Proc2.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/179_Lambda.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/180_Lambda_example.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/189_Read_file.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/192_argv.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/193_Load_File.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/194_Load_vs_Require.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/206_Class.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/call_load.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/call_require.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/end.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novel2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/haruna.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/gadget.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/gadget2.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/172_Proc.rb" beforeDir="false" afterPath="$PROJECT_DIR$/172_Proc.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/206_Class.rb" beforeDir="false" afterPath="$PROJECT_DIR$/206_Class.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +18,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@Hash_vs_other2.rcov" NAME="158_Hash_vs_other2 Coverage Results" MODIFIED="1532392661505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@179_Lambda.rcov" NAME="179_Lambda Coverage Results" MODIFIED="1532659155034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
-    <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@206_Class.rcov" NAME="206_Class Coverage Results" MODIFIED="1532666163319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
+    <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@206_Class.rcov" NAME="206_Class Coverage Results" MODIFIED="1532830610444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@Intro_to_Hashes.rcov" NAME="151_Hash_vs_other1 Coverage Results" MODIFIED="1532398383871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@177_Proc2.rcov" NAME="177_Proc2 Coverage Results" MODIFIED="1532654004541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@163_Sort_and_Sort_By.rcov" NAME="163_Sort_and_Sort_By Coverage Results" MODIFIED="1532396474208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
@@ -35,30 +26,14 @@
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@start.rcov" NAME="194_Load_vs_Require Coverage Results" MODIFIED="1532665963988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@162_Convert_Hash_to_Array.rcov" NAME="162_Convert_Hash_to_Array Coverage Results" MODIFIED="1532393961469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@170_Block.rcov" NAME="170_Block Coverage Results" MODIFIED="1532403082469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
+    <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@gadget2.rcov" NAME="gadget2 Coverage Results" MODIFIED="1532845388610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@172_Proc.rcov" NAME="172_Proc Coverage Results" MODIFIED="1532653172204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@168_Merge_Hash.rcov" NAME="168_Merge_Hash Coverage Results" MODIFIED="1532403068293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
+    <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@gadget.rcov" NAME="gadget Coverage Results" MODIFIED="1532845357400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@189_Read_file.rcov" NAME="189_Read_file Coverage Results" MODIFIED="1532660277917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="189_Read_file.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/189_Read_file.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="192_argv.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/192_argv.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="194_Load_vs_Require.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/194_Load_vs_Require.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,11 +43,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="206_Class.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="206_Class.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/206_Class.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gadget.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/gadget.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" column="10" lean-forward="true" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gadget2.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Classes/gadget2.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -121,6 +114,11 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>length</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -152,6 +150,8 @@
         <option value="$PROJECT_DIR$/call_require.rb" />
         <option value="$PROJECT_DIR$/194_Load_vs_Require.rb" />
         <option value="$PROJECT_DIR$/206_Class.rb" />
+        <option value="$PROJECT_DIR$/Classes/gadget.rb" />
+        <option value="$PROJECT_DIR$/Classes/gadget2.rb" />
       </list>
     </option>
   </component>
@@ -182,6 +182,11 @@
               <item name="LearnToCodeWithRuby" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnToCodeWithRuby" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LearnToCodeWithRuby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnToCodeWithRuby" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -206,41 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.206_Class">
-    <configuration name="177_Proc2" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="LearnToCodeWithRuby" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/177_Proc2.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-    </configuration>
-    <configuration name="179_Lambda" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="LearnToCodeWithRuby" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/179_Lambda.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-    </configuration>
+  <component name="RunManager" selected="Ruby.gadget2">
     <configuration name="189_Read_file" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="LearnToCodeWithRuby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -292,20 +263,54 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/206_Class.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
+    <configuration name="gadget" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="LearnToCodeWithRuby" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Classes" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Classes/gadget.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <configuration name="gadget2" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="LearnToCodeWithRuby" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Classes" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Classes/gadget2.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
     <list>
-      <item itemvalue="Ruby.177_Proc2" />
-      <item itemvalue="Ruby.179_Lambda" />
       <item itemvalue="Ruby.189_Read_file" />
       <item itemvalue="Ruby.194_Load_vs_Require" />
       <item itemvalue="Ruby.206_Class" />
+      <item itemvalue="Ruby.gadget" />
+      <item itemvalue="Ruby.gadget2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.gadget2" />
+        <item itemvalue="Ruby.gadget" />
         <item itemvalue="Ruby.206_Class" />
         <item itemvalue="Ruby.194_Load_vs_Require" />
         <item itemvalue="Ruby.189_Read_file" />
-        <item itemvalue="Ruby.179_Lambda" />
-        <item itemvalue="Ruby.177_Proc2" />
       </list>
     </recent_temporary>
   </component>
@@ -321,12 +326,12 @@
       <option name="presentableId" value="Default" />
       <updated>1532333912799</updated>
       <workItem from="1532333914959" duration="9380000" />
-      <workItem from="1532603082466" duration="10946000" />
+      <workItem from="1532603082466" duration="15150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20326000" />
+    <option name="totallyTimeSpent" value="24530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="756" y="23" width="679" height="877" extended-state="0" />
@@ -336,9 +341,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32948717" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32948717" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32948717" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32967034" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20408164" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32948717" />
@@ -549,8 +554,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/206_Class.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/gadget.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="10" lean-forward="true" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/gadget2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
