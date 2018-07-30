@@ -5,11 +5,18 @@
 # methodの初期化は、値をinstance variablesに値を置くことを可能にする。
 # instance variable is private, you can't call from outside of the method(encapsulation)
 # to call the instance variable, you need to define getter to call.
+require_relative '../235_app_store'
+
 class Gadget
-  def initialize
-    @username = "User #{rand(1..100)}"
-    @password = "topsecret"
-    @production_number = "#{("a".."z").to_a.sample}"
+
+  attr_reader :production_number, :apps
+  attr_accessor :username, :password
+
+  def initialize(username, password)
+    @username = username
+    @password = password
+    @production_number = generate_production_number
+    @apps = []
   end
 
   def to_s
@@ -18,31 +25,45 @@ class Gadget
     "Gadget #{@production_number} has the username #{@password}, and self #{self.class}"
   end
 
-  def username
-    @username
+  def install_app(name)
+    app = AppStore.find_app(name)
+    @apps << app unless @apps.include?(app)
   end
 
-  def username=(new_username)
-    @username = new_username
+  def delete_app(name)
+    app = apps.find { |installed_app| installed_app.name == name}
+    apps.delete(app) unless app.nil?
   end
 
-  def production_number
-    @production_number
+  private
+
+  attr_writer :apps
+  def generate_production_number
+    start_digits = rand(10000..99999)
+    end_digits = rand(10000..99999)
+    alphabet = ("A".."Z").to_a
+    middle_digits = "2017"
+    5.times { middle_digits << alphabet.sample }
+    "#{start_digits} - #{middle_digits} - #{end_digits}"
   end
 
-  def password=(new_password)
-    @password = new_password
+
+  def validate_password(new_password)
+    new_password.is_a?(String) && new_password.length >= 6 && new_password =~ /\d/
   end
 end
 
 
-phone = Gadget.new
-p phone.instance_variables
+phone = Gadget.new("haruna", "password")
 p phone.username
+p phone.password
 phone.username=("rubyman")
 p phone.username
 p phone.password=("bestpasswordever") # NG: phone.password = "bestpasswordever"
-
+phone.install_app :Chat
+p phone.apps
+p phone.delete_app(:Chat)
+p phone.apps
 
 # instanceから呼ばれたmethodの探す順序
 # まずはクラスをみて、見つからない場合はその上の階層に探しに行く。

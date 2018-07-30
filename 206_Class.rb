@@ -5,6 +5,14 @@
 #
 # Everything in ruby is object
 
+
+# Instance
+# Variables or methods belongs to each instance created from a class.
+
+# Class variable
+# solves issue of data duplication across instances
+#
+
 p 5.class
 p 5.class.superclass
 p 5.class.superclass.superclass

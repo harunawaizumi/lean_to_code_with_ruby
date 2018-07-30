@@ -6,6 +6,7 @@
 # but it can use the private value inside ot the method
 # sudo variable: modifications of instance variables
 # instance methods is better to instance variables
+#
 class Gadget
 
   attr_reader :production_number
@@ -17,6 +18,7 @@ class Gadget
     @email = email
     @value = 5000
     @production_number = "#{("a".."z").to_a.sample} - #{rand(1..999)}"
+
   end
 
   def to_s
@@ -33,7 +35,7 @@ class Gadget
     @email = new_email if validate_email(new_email)
   end
 
-  def value
+  def value # because it might change later ?
     @value = @value / 1000
   end
 
@@ -66,7 +68,11 @@ class Gadget
     new_email.is_a?(String) && new_email.include?("@") && new_email.length > 5
   end
 
+  def reset(username, password)
+    @username = username # ? not self.username self refers to its instance
+    @password = password # ? not self.password
   end
+end
 
 g1 = Gadget.new("Haruna", "haruna510", "haruna@gmail.com")
 g1.password = "39048df90510"
@@ -74,4 +80,3 @@ puts g1.email
 puts g1.password
 puts g1.say_value
 
-# 234~

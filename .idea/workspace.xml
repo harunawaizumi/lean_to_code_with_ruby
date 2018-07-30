@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd3d3f38-eaa4-48b4-96c2-9ad175db3bc7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/228_Extend.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/229_Enumerable.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/224_Mixins.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/220_Intro.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/haruna.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/haruna.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/235_app_store.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/206_Class.rb" beforeDir="false" afterPath="$PROJECT_DIR$/206_Class.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/229_Enumerable.rb" beforeDir="false" afterPath="$PROJECT_DIR$/229_Enumerable.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/gadget.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/gadget.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/gadget2.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/gadget2.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,26 +33,17 @@
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@228_Extend.rcov" NAME="228_Extend Coverage Results" MODIFIED="1532918393330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@172_Proc.rcov" NAME="172_Proc Coverage Results" MODIFIED="1532653172204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@168_Merge_Hash.rcov" NAME="168_Merge_Hash Coverage Results" MODIFIED="1532403068293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
-    <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@gadget.rcov" NAME="gadget Coverage Results" MODIFIED="1532845357400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" MODULE_NAME="LearnToCodeWithRuby" />
+    <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@gadget.rcov" NAME="gadget Coverage Results" MODIFIED="1532951118768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@189_Read_file.rcov" NAME="189_Read_file Coverage Results" MODIFIED="1532660277917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
-    <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@229_Enumerable.rcov" NAME="229_Enumerable Coverage Results" MODIFIED="1532923594626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
+    <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@229_Enumerable.rcov" NAME="229_Enumerable Coverage Results" MODIFIED="1532947263744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LearnToCodeWithRuby" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="194_Load_vs_Require.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/194_Load_vs_Require.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="206_Class.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/206_Class.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -60,8 +51,26 @@
       <file leaf-file-name="gadget.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classes/gadget.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="35" selection-end-column="3" />
+            <state relative-caret-position="-330">
+              <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="string.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/rubystubs24/string.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="468" column="8" selection-start-line="468" selection-start-column="8" selection-end-line="468" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="node.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.4.0/lib/ruby/2.4.0/rexml/light/node.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="97" column="10" selection-start-line="97" selection-start-column="10" selection-end-line="97" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -69,26 +78,17 @@
       <file leaf-file-name="gadget2.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classes/gadget2.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="220_Intro.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modules/220_Intro.rb">
+      <file leaf-file-name="call_load.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/call_load.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="224_Mixins.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes/224_Mixins.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -102,29 +102,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="229_Enumerable.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="229_Enumerable.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/229_Enumerable.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+            <state relative-caret-position="356">
+              <caret line="80" column="17" lean-forward="true" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="151_Hash_vs_other1.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/151_Hash_vs_other1.rb">
+      <file leaf-file-name="235_app_store.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/235_app_store.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" selection-start-line="28" selection-end-line="28" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="call_require.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/call_require.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
+            <state relative-caret-position="75">
+              <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -166,13 +157,14 @@
         <option value="$PROJECT_DIR$/call_load.txt" />
         <option value="$PROJECT_DIR$/call_require.rb" />
         <option value="$PROJECT_DIR$/194_Load_vs_Require.rb" />
-        <option value="$PROJECT_DIR$/206_Class.rb" />
-        <option value="$PROJECT_DIR$/Classes/gadget.rb" />
-        <option value="$PROJECT_DIR$/Classes/gadget2.rb" />
         <option value="$PROJECT_DIR$/Modules/220_Intro.rb" />
         <option value="$PROJECT_DIR$/Classes/224_Mixins.rb" />
         <option value="$PROJECT_DIR$/228_Extend.rb" />
+        <option value="$PROJECT_DIR$/Classes/gadget2.rb" />
         <option value="$PROJECT_DIR$/229_Enumerable.rb" />
+        <option value="$PROJECT_DIR$/206_Class.rb" />
+        <option value="$PROJECT_DIR$/Classes/gadget.rb" />
+        <option value="$PROJECT_DIR$/235_app_store.rb" />
       </list>
     </option>
   </component>
@@ -186,9 +178,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="885" />
+    <option name="x" value="765" />
     <option name="y" value="23" />
-    <option name="width" value="550" />
+    <option name="width" value="670" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -242,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.229_Enumerable">
+  <component name="RunManager" selected="Ruby.gadget">
     <configuration name="220_Intro" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="LearnToCodeWithRuby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -311,7 +303,7 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/229_Enumerable.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
-    <configuration name="gadget2" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="gadget" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="LearnToCodeWithRuby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Classes" />
@@ -325,23 +317,23 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Classes/gadget2.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Classes/gadget.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
     <list>
-      <item itemvalue="Ruby.gadget2" />
       <item itemvalue="Ruby.220_Intro" />
       <item itemvalue="Ruby.224_Mixins" />
       <item itemvalue="Ruby.228_Extend" />
       <item itemvalue="Ruby.229_Enumerable" />
+      <item itemvalue="Ruby.gadget" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.gadget" />
         <item itemvalue="Ruby.229_Enumerable" />
         <item itemvalue="Ruby.228_Extend" />
         <item itemvalue="Ruby.224_Mixins" />
         <item itemvalue="Ruby.220_Intro" />
-        <item itemvalue="Ruby.gadget2" />
       </list>
     </recent_temporary>
   </component>
@@ -358,18 +350,18 @@
       <updated>1532333912799</updated>
       <workItem from="1532333914959" duration="9380000" />
       <workItem from="1532603082466" duration="15150000" />
-      <workItem from="1532909198356" duration="7697000" />
+      <workItem from="1532909198356" duration="14291000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32227000" />
+    <option name="totallyTimeSpent" value="38821000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="885" y="23" width="550" height="877" extended-state="0" />
+    <frame x="765" y="23" width="670" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11146497" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -612,13 +604,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/call_load.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/call_require.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -630,20 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/206_Class.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes/gadget2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -661,20 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/228_Extend.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes/gadget.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="35" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Classes/224_Mixins.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -682,10 +639,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/228_Extend.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/call_load.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs24/object.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="811" column="8" selection-start-line="811" selection-start-column="8" selection-end-line="811" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.4.0/lib/ruby/2.4.0/rexml/light/node.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="97" column="10" selection-start-line="97" selection-start-column="10" selection-end-line="97" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs24/string.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="468" column="8" selection-start-line="468" selection-start-column="8" selection-end-line="468" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs24/struct.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="114" column="13" selection-start-line="114" selection-start-column="13" selection-end-line="114" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/gadget.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/gadget2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/229_Enumerable.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+        <state relative-caret-position="356">
+          <caret line="80" column="17" lean-forward="true" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/206_Class.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/235_app_store.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
         </state>
       </provider>
     </entry>
