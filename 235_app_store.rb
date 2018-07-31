@@ -12,13 +12,6 @@ module AppStore
   end
 end
 
-# when you use protected in a practical way
-# self or @variable
-# =~ ??
-# delete the item ? but still exists here..
-# what if you want to have some common values among all instances ?
-# <=>
-# Monkey patching
 
 class Animal
   def set_speed(value)
